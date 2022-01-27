@@ -12,8 +12,8 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
-
+地堡特供属于是
+源开源地址
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
 [Github Page](https://arcxingye.github.io/EatKano/index.html)
